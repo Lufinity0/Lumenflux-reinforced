@@ -1,2 +1,2 @@
 # Lumenflux-zen
-An advanced x64-based Linux-zen fork for gamers.
+An advanced, x64-based Linux-Zen derivative developed for gaming PCs.
