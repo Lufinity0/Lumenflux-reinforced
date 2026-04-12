@@ -1,2 +1,2 @@
-# Lumenflux-reinforced
-Advanced x64 based kernel for gamers
+# Lumenflux-zen
+An advanced x64-based Linux-zen fork for gamers.
